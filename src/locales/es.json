@@ -1,1 +1,535 @@
-{}
+{
+  "site": {
+    "name": "Tales of Eternia Remastered Wiki",
+    "shortName": "Tales of Eternia Remastered",
+    "tagline": "Guías, personajes, combate y recorridos por el mundo",
+    "description": "Explora Tales of Eternia Remastered con perfiles de personajes, consejos de combate, guías del mundo, información de plataformas y ayuda para principiantes en Inferia y Celestia.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "guide": "Guía",
+    "editions": "Ediciones",
+    "mechanics": "Mecánicas",
+    "characters": "Personajes",
+    "comparison": "Comparativa",
+    "community": "Comunidad",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Tales of Eternia Remastered Wiki: guía y personajes",
+      "description": "Explora Tales of Eternia Remastered con perfiles de personajes, consejos de combate, guías del mundo, información de plataformas y ayuda para principiantes en Inferia y Celestia."
+    },
+    "hero": {
+      "eyebrow": "El JRPG de fantasía clásico, remasterizado",
+      "title": "Tales of Eternia Remastered Wiki",
+      "description": "Explora dos mundos interconectados, domina el combate 2D en tiempo real, conoce a personajes inolvidables y acompaña a Reid y sus compañeros en una aventura épica de fantasía por Inferia y Celestia.",
+      "stats": [
+        "Lanzamiento: 15 de octubre de 2026",
+        "6 plataformas",
+        "2 mundos por explorar",
+        "10 idiomas disponibles"
+      ],
+      "primaryCta": "Jugar en Steam",
+      "secondaryCta": "PS5 y Switch 2",
+      "tertiaryCta": "Ver el tráiler",
+      "videoLabel": "Tráiler oficial"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu aventura en Tales of Eternia Remastered",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Empieza con buen pie tus primeras horas: aprende el sistema de combate Linear Motion, configura las Craymel Cages, forma un equipo equilibrado y convierte ingredientes baratos en curación gratis con la cocina."
+        },
+        {
+          "number": "2",
+          "title": "Fundamentos del combate",
+          "description": "Domina el Aggressive Linear Motion Battle System encadenando ataques normales con artes, bloqueando los golpes telegrafiados, gestionando el TP y ajustando las tácticas de la IA antes de cada jefe."
+        },
+        {
+          "number": "3",
+          "title": "Mejores personajes",
+          "description": "Compara a Reid Hershel, Farah Oersted, Keele Zeibel y Meredy por rol, curva de aprendizaje y sinergia de equipo para saber a quién controlar desde el primer combate."
+        },
+        {
+          "number": "4",
+          "title": "Guía de Craymels",
+          "description": "Entiende cómo los Grandes Craymels y los espíritus elementales alimentan la magia a través de la Craymel Cage de cada personaje y qué espíritus colocar primero en Inferia y Celestia."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Sistema de combate",
+        "Mejores personajes",
+        "Recorrido"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Sistemas básicos, formación del equipo, Craymel Cages, cocina y consejos para conseguir dinero al principio.",
+          "href": "/guide/tales-of-eternia-remastered-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Sistema de combate",
+          "description": "Cómo funciona el Aggressive Linear Motion Battle System: artes, TP, bloqueo y rutas de combo.",
+          "href": "/mechanics/tales-of-eternia-remastered-combat-system"
+        },
+        {
+          "badge": "Popular",
+          "title": "Mejores personajes",
+          "description": "Reid, Farah, Keele y Meredy comparados por rol, estilo de juego y sinergia de equipo.",
+          "href": "/characters/tales-of-eternia-remastered-best-character"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Recorrido",
+          "description": "Una ruta por etapas a través de Inferia y Celestia con prioridades iniciales y preparación de jefes.",
+          "href": "/guide/tales-of-eternia-remastered-walkthrough"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Plataformas y versiones",
+          "description": "Todas las plataformas en las que llega el remaster, además del historial de versiones del lanzamiento.",
+          "href": "/guide/tales-of-eternia-remastered-platforms"
+        },
+        {
+          "badge": "Popular",
+          "title": "Original vs. remasterizado",
+          "description": "Gráficos, presentación del combate y mejoras de calidad de vida frente al original de 2001.",
+          "href": "/comparison/tales-of-eternia-remastered-vs-original"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Guía de la tienda Grade",
+          "description": "Cómo se gana Grade con el rendimiento en combate y se gasta en ventajas de Nueva partida+.",
+          "href": "/mechanics/tales-of-eternia-remastered-grade-shop"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Los skits explicados",
+          "description": "Condiciones de activación, conversaciones perdibles y el nuevo doblaje en inglés.",
+          "href": "/mechanics/tales-of-eternia-remastered-skits"
+        },
+        {
+          "badge": "Popular",
+          "title": "Fecha de lanzamiento",
+          "description": "Momento de lanzamiento, detalles regionales y qué incluye el primer día.",
+          "href": "/guide/tales-of-eternia-remastered-release-date"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Tales of Eternia Remastered?",
+      "paragraphs": [
+        "Tales of Eternia Remastered es la edición mejorada de 2026 del clásico JRPG de 2001, desarrollada por TOSE Co., Ltd. y publicada por Bandai Namco Entertainment. Sigue a Reid Hershel, Farah Oersted, Keele Zeibel y Meredy por dos mundos conectados —Inferia abajo y Celestia arriba— mientras luchan por evitar que un desastre consuma ambos.",
+        "El combate utiliza el Aggressive Linear Motion Battle System, un sistema 2D en tiempo real en el que controlas a un héroe mientras tres aliados luchan por su cuenta. Encadenas ataques normales con artes, bloqueas golpes telegrafiados y gestionas una reserva compartida de TP. El remaster añade gráficos renovados, un guion en inglés reconstruido, un nuevo doblaje en inglés y mejoras de calidad de vida como el interruptor de tasa de encuentros, los iconos de objetivos y una velocidad de carrera por defecto."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "TOSE Co., Ltd."
+        },
+        {
+          "label": "Distribuidora",
+          "value": "Bandai Namco Entertainment"
+        },
+        {
+          "label": "Fecha de lanzamiento",
+          "value": "15 oct 2026"
+        },
+        {
+          "label": "Plataformas",
+          "value": "6"
+        },
+        {
+          "label": "Género",
+          "value": "JRPG de acción"
+        },
+        {
+          "label": "Mundos",
+          "value": "Inferia y Celestia"
+        },
+        {
+          "label": "Idiomas",
+          "value": "10"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora la wiki de Tales of Eternia Remastered",
+      "description": "Recorre los sistemas que definen Tales of Eternia Remastered: una hoja de ruta para principiantes, el equipo al completo, el Aggressive Linear Motion Battle System, los Craymels y la magia, un recorrido por los dos mundos y comparativas de plataformas y versiones.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Tales of Eternia Remastered",
+          "description": "Pon al día a los nuevos jugadores sobre la jugabilidad básica, la premisa argumental, la exploración, la gestión del equipo y el combate en tiempo real, incluidos los marcadores de destino, la frecuencia de encuentros y las mejoras de calidad de vida del remaster.",
+          "href": "/guide/tales-of-eternia-remastered-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Aprende el movimiento, la disposición de los menús y lo básico del Linear Motion Battle System"
+            },
+            {
+              "label": "2",
+              "detail": "Habla con todos los PNJ del asentamiento inicial para activar misiones y objetos de las primeras horas"
+            },
+            {
+              "label": "3",
+              "detail": "Compra armas y armaduras para los cuatro miembros del equipo antes de salir del primer pueblo"
+            },
+            {
+              "label": "4",
+              "detail": "Practica el bloqueo, la esquiva y el encadenado de ataques normales con artes"
+            },
+            {
+              "label": "5",
+              "detail": "Configura tácticas de IA para que el sanador se quede atrás y el mago lance a distancia"
+            },
+            {
+              "label": "6",
+              "detail": "Cocina tras cada mazmorra: las recetas convierten ingredientes baratos en curación gratis"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Personajes de Tales of Eternia Remastered",
+          "description": "Conoce al equipo principal —Reid Hershel, Farah Oersted, Keele Zeibel y Meredy— y entiende el rol de combate, el estilo de lucha y los vínculos argumentales de cada uno en Inferia y Celestia.",
+          "href": "/characters/tales-of-eternia-remastered-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Reid",
+              "detail": "Espadachín equilibrado y líder por defecto: el héroe más fácil de aprender"
+            },
+            {
+              "label": "Farah",
+              "detail": "Artista marcial veloz y sin armas, hecha para presionar, esquivar y encadenar múltiples golpes"
+            },
+            {
+              "label": "Keele",
+              "detail": "Erudito de los Craymels ofensivo que funde grupos pero sucumbe de cerca"
+            },
+            {
+              "label": "Meredy",
+              "detail": "Lanzadora y sanadora de Celestia: tu red de seguridad en las mazmorras largas"
+            },
+            {
+              "label": "Equipo",
+              "detail": "Un equipo equilibrado por defecto lleva dos combatientes cuerpo a cuerpo, un lanzador y un sanador"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de combate de Tales of Eternia Remastered",
+          "description": "Entiende el Aggressive Linear Motion Battle System: uso de artes, rutas de combo, gestión del TP, bloqueo y cómo la IA del equipo y las opciones de dificultad condicionan cada combate.",
+          "href": "/mechanics/tales-of-eternia-remastered-combat-system",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Artes",
+              "detail": "Encadena dos o tres ataques normales y cancela el golpe final en un arte básico"
+            },
+            {
+              "label": "TP",
+              "detail": "Artes y hechizos comparten reserva: guarda los lanzamientos potentes para enemigos aturdidos o acorralados"
+            },
+            {
+              "label": "Bloqueo",
+              "detail": "Mantén el bloqueo para reducir el daño y rehacer un intercambio desfavorable"
+            },
+            {
+              "label": "AI",
+              "detail": "Ajusta las tácticas antes de cada jefe: sanador atrás, mago a distancia, púgil libre"
+            },
+            {
+              "label": "Modos",
+              "detail": "Los modos Manual, Semi-Auto y Auto permiten acercarse automáticamente"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de Craymels de Tales of Eternia Remastered",
+          "description": "Aprende cómo los Grandes Craymels y los espíritus elementales alimentan la magia mediante la Craymel Cage de cada personaje y qué espíritus conviene colocar primero mientras viajas por los dos mundos.",
+          "href": "/mechanics",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Rem: espíritu de luz ligado al apoyo y la curación"
+            },
+            {
+              "label": "S",
+              "detail": "Undine: magia de agua ofensiva fiable desde el principio"
+            },
+            {
+              "label": "A",
+              "detail": "Volt: gran daño eléctrico explosivo cuando el TP lo permite"
+            },
+            {
+              "label": "A",
+              "detail": "Celsius: magia de hielo que destaca contra enemigos de fuego"
+            },
+            {
+              "label": "B",
+              "detail": "Efreet: magia de fuego fuerte contra enemigos de hielo"
+            },
+            {
+              "label": "B",
+              "detail": "Sylph: cobertura de viento para enemigos voladores"
+            },
+            {
+              "label": "C",
+              "detail": "Gnome: espíritu de tierra resistente para mazmorras largas"
+            },
+            {
+              "label": "C",
+              "detail": "Shadow: magia oscura situacional que conviene reservar para los jefes"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Recorrido de Tales of Eternia Remastered",
+          "description": "Sigue un recorrido centrado en el avance por Inferia y Celestia, con hitos argumentales y objetivos principales, organizado por localización y capítulo con consejos de preparación para cada tramo.",
+          "href": "/guide/tales-of-eternia-remastered-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Primera hora: aprende el movimiento, los menús y lo básico del combate"
+            },
+            {
+              "label": "2",
+              "detail": "Horas 1-2: habla con todos los PNJ del asentamiento inicial para las misiones tempranas"
+            },
+            {
+              "label": "3",
+              "detail": "Horas 2-3: compra armas y armaduras para los cuatro miembros del equipo"
+            },
+            {
+              "label": "4",
+              "detail": "Horas 3-4: practica el bloqueo, la esquiva y los combos antes del primer jefe"
+            },
+            {
+              "label": "5",
+              "detail": "Horas 4-5: marca cada cofre y camino secundario en el mapa"
+            },
+            {
+              "label": "6",
+              "detail": "Mitad de partida: ajusta los Craymels a los elementos de cada mazmorra"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Trucos y consejos de Tales of Eternia Remastered",
+          "description": "Consejos prácticos para gestionar los encuentros aleatorios, elegir la dificultad, usar batallas Auto a alta velocidad y recuperarte de combates difíciles, aprovechando los iconos de destino y los controles de encuentros para agilizar la exploración.",
+          "href": "/mechanics/tales-of-eternia-remastered-difficulty",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Encuentros",
+              "detail": "Usa el interruptor de encuentros para explorar o farmear a tu ritmo"
+            },
+            {
+              "label": "Dificultad",
+              "detail": "Elige una dificultad acorde a tu soltura con el combate en tiempo real"
+            },
+            {
+              "label": "Modo Auto",
+              "detail": "Las batallas Auto a alta velocidad agilizan los combates fáciles y el farmeo"
+            },
+            {
+              "label": "Recuperación",
+              "detail": "Cambia tu equipo o las tácticas de IA antes que tu nivel"
+            },
+            {
+              "label": "Guarda a menudo",
+              "detail": "Guarda siempre que el juego lo permita: los RPG clásicos castigan perder el progreso"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Ediciones y plataformas de Tales of Eternia Remastered",
+          "description": "Compara las ediciones disponibles y las plataformas compatibles, incluidas PC, PlayStation, Xbox y Nintendo Switch, y revisa la información oficial de lanzamiento y los idiomas disponibles.",
+          "href": "/guide/tales-of-eternia-remastered-platforms",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Steam",
+              "detail": "Lanzamiento digital para PC con su propia página de tienda"
+            },
+            {
+              "label": "PS5",
+              "detail": "Versión para PlayStation 5 lanzada junto a PS4"
+            },
+            {
+              "label": "PS4",
+              "detail": "Lanzamiento para la PlayStation de la generación anterior"
+            },
+            {
+              "label": "Xbox",
+              "detail": "Versión para Xbox Series X|S"
+            },
+            {
+              "label": "Switch 2",
+              "detail": "Lanzamiento para Nintendo Switch 2"
+            },
+            {
+              "label": "Switch",
+              "detail": "Lanzamiento para Nintendo Switch"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Tales of Eternia Remastered: original vs. remasterizado",
+          "description": "Compara el remaster con el juego original, centrándote en las mejoras gráficas y sonoras, las mejoras jugables y las funciones de comodidad añadidas para veteranos y recién llegados.",
+          "href": "/comparison/tales-of-eternia-remastered-vs-original",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Gráficos",
+              "detail": "Sprites renovados y más nítidos, con efectos de hechizos actualizados en pantallas modernas"
+            },
+            {
+              "label": "Sonido",
+              "detail": "Conserva la apertura anime «flying» de GARNET CROW"
+            },
+            {
+              "label": "Skits",
+              "detail": "Más de 250 skits y un nuevo doblaje en inglés, recortados en anteriores lanzamientos occidentales"
+            },
+            {
+              "label": "Calidad de vida",
+              "detail": "Interruptor de encuentros, iconos de objetivos, velocidad de carrera por defecto y pausa o salto de escenas"
+            },
+            {
+              "label": "Historia",
+              "detail": "Los mismos dos mundos y el mismo reparto: una versión mejorada, no un remake"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Tales of Eternia Remastered.",
+      "items": [
+        {
+          "question": "¿Qué es Tales of Eternia Remastered?",
+          "answer": "Tales of Eternia Remastered es la edición mejorada de 2026 del clásico JRPG de 2001, desarrollada por TOSE Co., Ltd. y publicada por Bandai Namco Entertainment. Sigue a Reid Hershel y sus compañeros por los mundos conectados de Inferia y Celestia, con gráficos actualizados y funciones de calidad de vida modernas."
+        },
+        {
+          "question": "¿En qué plataformas está Tales of Eternia Remastered?",
+          "answer": "Tales of Eternia Remastered se lanza en PlayStation 4, PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2 y PC a través de Steam."
+        },
+        {
+          "question": "¿Tales of Eternia Remastered tiene multijugador?",
+          "answer": "La página oficial del producto indica que Tales of Eternia Remastered es para un jugador, sin campaña cooperativa, pantalla dividida ni emparejamiento en línea."
+        },
+        {
+          "question": "¿Cómo funciona el combate en Tales of Eternia Remastered?",
+          "answer": "Los combates usan el Aggressive Linear Motion Battle System (A.L.M.B.S.), un sistema 2D en tiempo real. Controlas a un héroe mientras tres aliados actúan por su cuenta, encadenando ataques normales con artes, bloqueando ataques telegrafiados y compartiendo una única reserva de TP para hechizos y artes."
+        },
+        {
+          "question": "¿Cuánto dura Tales of Eternia Remastered?",
+          "answer": "Tales of Eternia Remastered es una campaña JRPG de larga duración: decenas de horas para la historia principal, y más si persigues Craymels opcionales, misiones secundarias y skits por ambos mundos."
+        },
+        {
+          "question": "¿Qué novedades trae Tales of Eternia Remastered?",
+          "answer": "El remaster añade gráficos actualizados, un guion en inglés reconstruido, un nuevo doblaje en inglés, más de 250 skits y funciones de calidad de vida como el interruptor de encuentros, iconos de objetivos activables y una velocidad de carrera por defecto."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar Tales of Eternia Remastered?",
+      "description": "Desde tus primeros pasos en Inferia hasta los combates finales en Celestia, nuestra wiki comunitaria te cubre con guías gratuitas y actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guía de Tales of Eternia Remastered",
+    "overviewDescription": "Empieza aquí con Tales of Eternia Remastered: fecha de lanzamiento, plataformas, precio, análisis, logros, trofeos y un recorrido completo."
+  },
+  "editions": {
+    "overviewTitle": "Ediciones de Tales of Eternia Remastered",
+    "overviewDescription": "Compara todas las ediciones y plataformas de Tales of Eternia Remastered, desde la Estándar y la Deluxe hasta la edición física, los bonus de reserva, PS5, Nintendo Switch 2 y Steam."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Tales of Eternia Remastered",
+    "overviewDescription": "Cómo se juega a Tales of Eternia Remastered: el Aggressive Linear Motion Battle System, la dificultad, el cooperativo y el multijugador, los skits y la tienda Grade."
+  },
+  "characters": {
+    "overviewTitle": "Personajes de Tales of Eternia Remastered",
+    "overviewDescription": "Conoce el reparto de Tales of Eternia Remastered: personajes jugables, las mejores elecciones, actores de doblaje y todos los tráilers de personajes."
+  },
+  "comparison": {
+    "overviewTitle": "Tales of Eternia Remastered vs. el original",
+    "overviewDescription": "Descubre qué ha cambiado en Tales of Eternia Remastered: diferencias con el original de 2001, rendimiento y qué versión es la mejor forma de jugar."
+  },
+  "community": {
+    "overviewTitle": "Comunidad de Tales of Eternia Remastered",
+    "overviewDescription": "Noticias de Tales of Eternia Remastered, el tráiler oficial, la canción de apertura y dónde se reúne la comunidad en Reddit."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación del wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Siguientes pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "Tales of Eternia Remastered Wiki",
+    "about": "Tales of Eternia Remastered Wiki es un centro de guías independiente creado por fans que cubre recorridos de la historia, personajes, combate en tiempo real, los mundos de Inferia y Celestia y conocimientos esenciales tanto para veteranos como para nuevos jugadores.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Tales of Eternia Remastered Wiki. Sin afiliación con Bandai Namco Entertainment ni TOSE Co., Ltd.",
+    "description": "Un centro de guías hecho por fans para Tales of Eternia Remastered, un JRPG de fantasía clásico con combate 2D en tiempo real en Inferia y Celestia.",
+    "playGame": "Jugar en Steam",
+    "officialDiscord": "Comunidad Tales (Reddit)",
+    "officialYoutube": "YouTube oficial",
+    "beginnerGuide": "Guía para principiantes",
+    "editionsGuide": "Ediciones y plataformas",
+    "mechanicsGuide": "Combate y mecánicas",
+    "charactersGuide": "Personajes",
+    "comparisonGuide": "Comparativa del remaster",
+    "communityGuide": "Noticias y comunidad",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}
