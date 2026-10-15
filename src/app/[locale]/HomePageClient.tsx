@@ -1,6 +1,4 @@
 "use client";
-import { siteConfig } from "@/config/site";
-
 import Link from "next/link";
 import { ArrowRight, BookOpen, Boxes, ChevronRight, CircleHelp, Code2, Compass, Flame, Map as MapIcon, ScrollText, Shield, Skull, Swords, Trophy, Users, Zap, type LucideIcon } from "lucide-react";
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
@@ -18,7 +16,7 @@ const icons: LucideIcon[] = [BookOpen, Shield, Compass, Boxes, Flame, Code2, Swo
 
 
 export default function HomePageClient({ home, locale, articles, recentArticles }: { home: Home; locale: string; articles: ContentItem[]; recentArticles: ContentItem[] }) {
-  const YOUTUBE_VIDEO_ID = siteConfig.heroVideoId || "";
+  const YOUTUBE_VIDEO_ID = "n0Trr5yLK1A"; // Tales of Eternia Remastered - Announcement Trailer (Bandai Namco)
 
   return (
     <div className="min-w-0 space-y-16">
@@ -32,7 +30,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
           <span className="mt-2 inline-flex items-center rounded-md border border-[hsl(var(--nav-theme))] bg-[hsl(var(--nav-theme))] px-2.5 py-0.5 text-xs font-semibold text-primary-foreground sm:-translate-y-1.5">{home.hero.eyebrow}</span>
         </div>
         {YOUTUBE_VIDEO_ID && (
-          <div className="mx-auto mt-5 max-w-2xl">
+          <div className="mx-auto mt-6 w-full max-w-4xl">
             <TrailerButton videoId={YOUTUBE_VIDEO_ID} />
           </div>
         )}
