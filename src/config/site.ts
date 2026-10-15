@@ -35,6 +35,6 @@ export const siteConfig: SiteConfig = {
     website: "https://www.bandainamcoent.com/games/tales-of-eternia-remastered",
     reddit: "https://www.reddit.com/r/tales/",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "ja", "es", "fr"],
   defaultLocale: "en",
 };
