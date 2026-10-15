@@ -8,6 +8,12 @@
   },
   "nav": {
     "home": "Home",
+    "guide": "Guide",
+    "editions": "Editions",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "comparison": "Comparison",
+    "community": "Community",
     "menu": "Menu",
     "toggleTheme": "Toggle theme"
   },
@@ -465,7 +471,30 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Tales of Eternia Remastered Guide",
+    "overviewDescription": "Start here for Tales of Eternia Remastered: release date, platforms, price, review, achievements, trophies, and a complete walkthrough."
+  },
+  "editions": {
+    "overviewTitle": "Tales of Eternia Remastered Editions",
+    "overviewDescription": "Compare every Tales of Eternia Remastered edition and platform, from Standard and Deluxe to the physical release, pre-order bonuses, PS5, Nintendo Switch 2, and Steam."
+  },
+  "mechanics": {
+    "overviewTitle": "Tales of Eternia Remastered Mechanics",
+    "overviewDescription": "How Tales of Eternia Remastered plays: the Aggressive Linear Motion Battle System, difficulty, co-op and multiplayer, skits, and the Grade Shop."
+  },
+  "characters": {
+    "overviewTitle": "Tales of Eternia Remastered Characters",
+    "overviewDescription": "Meet the Tales of Eternia Remastered cast: playable characters, the best character picks, voice actors, and every character trailer."
+  },
+  "comparison": {
+    "overviewTitle": "Tales of Eternia Remastered vs the Original",
+    "overviewDescription": "See what changed in Tales of Eternia Remastered: differences from the 2001 original, performance, and which version is the best way to play."
+  },
+  "community": {
+    "overviewTitle": "Tales of Eternia Remastered Community",
+    "overviewDescription": "Tales of Eternia Remastered news, the official trailer, the opening song, and where the community gathers on Reddit."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -494,11 +523,12 @@
     "playGame": "Play on Steam",
     "officialDiscord": "Tales Community (Reddit)",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "Combat Guide",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Tier List & Builds",
+    "editionsGuide": "Editions & Platforms",
+    "mechanicsGuide": "Combat & Mechanics",
+    "charactersGuide": "Characters",
+    "comparisonGuide": "Remaster Comparison",
+    "communityGuide": "News & Community",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
