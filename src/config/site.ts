@@ -13,6 +13,8 @@ export interface SiteConfig {
     youtube?: string;
     twitter?: string;
     tiktok?: string;
+    website?: string;
+    reddit?: string;
   };
   locales: readonly string[];
   defaultLocale: string;
@@ -22,15 +24,16 @@ export const siteConfig: SiteConfig = {
   name: "Tales of Eternia Remastered Wiki",
   shortName: "Tales of Eternia Remastered",
   logoText: "TE",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "n0Trr5yLK1A", // Tales of Eternia Remastered - Announcement Trailer (Bandai Namco)
+  tagline: "Guides, Characters, Combat & World Walkthroughs",
+  description: "Explore Tales of Eternia Remastered with story details, character profiles, combat tips, world guides, platform info, and beginner help for Inferia and Celestia.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://talesofeterniaremastered.top",
+  supportEmail: "support@talesofeterniaremastered.top",
+  gameUrl: "https://store.steampowered.com/app/3470960/Tales_of_Eternia_Remastered/",
+  heroVideoId: "n0Trr5yLK1A", // Tales of Eternia Remastered - Announcement Trailer (Bandai Namco Entertainment America)
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/@BandaiNamcoAmerica",
+    website: "https://www.bandainamcoent.com/games/tales-of-eternia-remastered",
+    reddit: "https://www.reddit.com/r/tales/",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
