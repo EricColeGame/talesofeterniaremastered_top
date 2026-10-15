@@ -43,22 +43,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Start your first hours on solid ground: learn the Linear Motion Battle System, set up Craymel Cages, build a balanced party, and turn cheap ingredients into free healing with cooking."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Combat Basics",
+          "description": "Master the Aggressive Linear Motion Battle System by chaining normal attacks into artes, guarding against telegraphed hits, managing TP, and setting AI tactics before every boss."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Best Characters",
+          "description": "Compare Reid Hershel, Farah Oersted, Keele Zeibel, and Meredy by role, learning curve, and party synergy so you know who to control from the first battle."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Tales of Eternia Remastered."
+          "title": "Craymel Guide",
+          "description": "Understand how Greater Craymels and elemental spirits power magic through each character's Craymel Cage, and which spirits to slot first across Inferia and Celestia."
         }
       ]
     },
@@ -66,237 +66,363 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Combat System",
+        "Best Characters",
+        "Walkthrough"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Core systems, party building, Craymel Cages, cooking, and early money tips for your first hours.",
+          "href": "/guide/tales-of-eternia-remastered-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Combat System",
+          "description": "How the Aggressive Linear Motion Battle System works: artes, TP, guarding, and combo routing.",
+          "href": "/mechanics/tales-of-eternia-remastered-combat-system"
+        },
+        {
+          "badge": "Popular",
+          "title": "Best Characters",
+          "description": "Reid, Farah, Keele, and Meredy compared by role, playstyle, and party synergy.",
+          "href": "/characters/tales-of-eternia-remastered-best-character"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Walkthrough",
+          "description": "A staged route across Inferia and Celestia with early priorities and boss preparation.",
+          "href": "/guide/tales-of-eternia-remastered-walkthrough"
+        },
+        {
+          "badge": "New",
+          "title": "Platforms & Versions",
+          "description": "Every platform the remaster lands on, plus the version history behind the release.",
+          "href": "/guide/tales-of-eternia-remastered-platforms"
+        },
+        {
+          "badge": "Popular",
+          "title": "Original vs Remastered",
+          "description": "Visuals, battle presentation, and quality-of-life changes compared with the 2001 original.",
+          "href": "/comparison/tales-of-eternia-remastered-vs-original"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Grade Shop Guide",
+          "description": "How Grade is earned through battle performance and spent on New Game+ perks.",
+          "href": "/mechanics/tales-of-eternia-remastered-grade-shop"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Skits Explained",
+          "description": "Trigger conditions, missable conversations, and the new English dub.",
+          "href": "/mechanics/tales-of-eternia-remastered-skits"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Release Date",
+          "description": "Launch timing, regional details, and what ships on day one.",
+          "href": "/guide/tales-of-eternia-remastered-release-date"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Tales of Eternia Remastered?",
       "paragraphs": [
-        "Tales of Eternia Remastered is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Tales of Eternia Remastered is the 2026 enhanced edition of the classic 2001 JRPG, developed by TOSE Co., Ltd. and published by Bandai Namco Entertainment. It follows Reid Hershel, Farah Oersted, Keele Zeibel, and Meredy across two linked worlds — Inferia below and Celestia above — as they race to stop a disaster from consuming both.",
+        "Combat runs on the Aggressive Linear Motion Battle System, a real-time 2D system where you control one hero while three allies fight on their own. You chain normal attacks into artes, guard against telegraphed blows, and manage a shared TP pool. The remaster adds updated visuals, a rebuilt English script, a new English dub, and quality-of-life features such as an encounter rate toggle, objective icons, and a default run speed."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "TOSE Co., Ltd."
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Publisher",
+          "value": "Bandai Namco Entertainment"
+        },
+        {
+          "label": "Release Date",
+          "value": "Oct 15, 2026"
+        },
+        {
+          "label": "Platforms",
+          "value": "6"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Action JRPG"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Worlds",
+          "value": "Inferia & Celestia"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
-        },
-        {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Languages",
+          "value": "10"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Tales of Eternia Remastered Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Work through the systems that define Tales of Eternia Remastered: a beginner roadmap, the full party, the Aggressive Linear Motion Battle System, Craymels and magic, a two-world walkthrough, and platform and version comparisons.",
       "modules": [
         {
           "order": 1,
-          "name": "Tales of Eternia Remastered Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/tales-of-eternia-remastered-codes",
-          "displayType": "code-box",
+          "name": "Tales of Eternia Remastered Beginner Guide",
+          "description": "Get new players up to speed on core gameplay, story premise, exploration, party management, and the real-time battle system, including destination markers, encounter frequency, and the remastered quality-of-life features.",
+          "href": "/guide/tales-of-eternia-remastered-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Learn movement, menu layout, and the basics of the Linear Motion Battle System"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Talk to every NPC in the starting settlement to trigger early quests and item handouts"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Buy weapons and armor for all four party members before leaving the first town"
+            },
+            {
+              "label": "4",
+              "detail": "Practice guarding, dodging, and chaining normal attacks into artes"
+            },
+            {
+              "label": "5",
+              "detail": "Set AI tactics so your healer stays back and your mage casts from range"
+            },
+            {
+              "label": "6",
+              "detail": "Cook after each dungeon — recipes turn cheap ingredients into free healing"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/tales-of-eternia-remastered-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Tales of Eternia Remastered Characters",
+          "description": "Meet the main party — Reid Hershel, Farah Oersted, Keele Zeibel, and Meredy — and understand each member's combat role, fighting style, and story ties across Inferia and Celestia.",
+          "href": "/characters/tales-of-eternia-remastered-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Reid",
+              "detail": "Balanced sword fighter and the default lead — the easiest hero to learn"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Farah",
+              "detail": "Fast unarmed martial artist built for pressure, dodging, and multi-hit strings"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Keele",
+              "detail": "Offensive Craymel scholar who melts groups but folds up close"
+            },
+            {
+              "label": "Meredy",
+              "detail": "Celestian caster and healer — your safety net in long dungeons"
+            },
+            {
+              "label": "Party",
+              "detail": "A balanced default team runs two melee fighters, one caster, and one healer"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/tales-of-eternia-remastered-tier-list",
-          "displayType": "tier-grid",
+          "name": "Tales of Eternia Remastered Combat Guide",
+          "description": "Understand the Aggressive Linear Motion Battle System: arte usage, combo routing, TP management, guarding, and how party AI and difficulty options shape every fight.",
+          "href": "/mechanics/tales-of-eternia-remastered-combat-system",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Artes",
+              "detail": "Chain two or three normal attacks, then cancel the final hit into a base arte"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "TP",
+              "detail": "Artes and spells share one pool — save big casts for staggered or cornered foes"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Guard",
+              "detail": "Hold guard to soften damage and reset a losing exchange"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "AI",
+              "detail": "Set tactics before every boss: healer back, mage at range, brawler free"
+            },
+            {
+              "label": "Modes",
+              "detail": "Manual, Semi-Auto, and Auto control let you close distance automatically"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/tales-of-eternia-remastered-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Tales of Eternia Remastered Craymel Guide",
+          "description": "Learn how Greater Craymels and elemental spirits power magic through each character's Craymel Cage, and see which spirits are worth slotting first as you travel across the two worlds.",
+          "href": "/mechanics",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Rem — Light spirit tied to support and healing"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "S",
+              "detail": "Undine — Reliable early offensive water magic"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "A",
+              "detail": "Volt — High burst lightning damage when TP allows"
+            },
+            {
+              "label": "A",
+              "detail": "Celsius — Ice magic that excels against fire-aligned foes"
+            },
+            {
+              "label": "B",
+              "detail": "Efreet — Fire magic strong against ice-aligned foes"
+            },
+            {
+              "label": "B",
+              "detail": "Sylph — Wind coverage for flying enemies"
+            },
+            {
+              "label": "C",
+              "detail": "Gnome — Sturdy earth spirit for long dungeon crawls"
+            },
+            {
+              "label": "C",
+              "detail": "Shadow — Situational dark magic best saved for bosses"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/tales-of-eternia-remastered-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Tales of Eternia Remastered Walkthrough",
+          "description": "Follow a progression-focused walkthrough across Inferia and Celestia, covering story milestones and major objectives, organized by location and chapter with preparation advice for each stretch.",
+          "href": "/guide/tales-of-eternia-remastered-walkthrough",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "First hour: learn movement, menus, and the basics of the battle system"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Hours 1–2: talk to every NPC in the starting settlement for early quests"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Hours 2–3: buy weapons and armor for all four party members"
+            },
+            {
+              "label": "4",
+              "detail": "Hours 3–4: practice blocking, dodging, and chaining combos before the first boss"
+            },
+            {
+              "label": "5",
+              "detail": "Hours 4–5: mark every chest and side path on your map"
+            },
+            {
+              "label": "6",
+              "detail": "Mid-game: match Craymels to the elements of each dungeon"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/tales-of-eternia-remastered-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Tales of Eternia Remastered Tips and Tricks",
+          "description": "Practical advice for managing random encounters, choosing difficulty settings, running high-speed Auto battles, and recovering from difficult fights, using destination icons and encounter controls to smooth out exploration.",
+          "href": "/mechanics/tales-of-eternia-remastered-difficulty",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Encounters",
+              "detail": "Use the encounter rate toggle to explore or grind on your own terms"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Difficulty",
+              "detail": "Pick a difficulty setting that matches your comfort with real-time combat"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Auto Mode",
+              "detail": "High-speed Auto battles speed up easy fights and grinding"
+            },
+            {
+              "label": "Recovery",
+              "detail": "Change your party or AI tactics before you change your level"
+            },
+            {
+              "label": "Save Often",
+              "detail": "Save every time the game allows — classic RPGs punish lost progress"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Tales of Eternia Remastered Editions and Platforms",
+          "description": "Compare the available editions and supported platforms, including PC, PlayStation, Xbox, and Nintendo Switch, and review official release information and language support.",
+          "href": "/guide/tales-of-eternia-remastered-platforms",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Steam",
+              "detail": "PC digital release with its own store page"
+            },
+            {
+              "label": "PS5",
+              "detail": "PlayStation 5 version released alongside PS4"
+            },
+            {
+              "label": "PS4",
+              "detail": "Last-generation PlayStation release"
+            },
+            {
+              "label": "Xbox",
+              "detail": "Xbox Series X|S version"
+            },
+            {
+              "label": "Switch 2",
+              "detail": "Nintendo Switch 2 release"
+            },
+            {
+              "label": "Switch",
+              "detail": "Nintendo Switch release"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Tales of Eternia Remastered Original vs Remastered",
+          "description": "Compare the remastered release with the original game, focusing on visual and sound updates, gameplay improvements, and added convenience features for returning fans and newcomers.",
+          "href": "/comparison/tales-of-eternia-remastered-vs-original",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Visuals",
+              "detail": "Refreshed, higher-clarity sprites and updated spell effects on modern displays"
+            },
+            {
+              "label": "Audio",
+              "detail": "Retains the anime opening 'flying' by GARNET CROW"
+            },
+            {
+              "label": "Skits",
+              "detail": "More than 250 skits plus a new English dub, cut from earlier Western releases"
+            },
+            {
+              "label": "QoL",
+              "detail": "Encounter rate toggle, objective icons, default run speed, and pause or skip scenes"
+            },
+            {
+              "label": "Story",
+              "detail": "Same two worlds and cast — an enhanced version rather than a remake"
             }
           ]
         }
@@ -308,23 +434,27 @@
       "items": [
         {
           "question": "What is Tales of Eternia Remastered?",
-          "answer": "Tales of Eternia Remastered is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Tales of Eternia Remastered is the 2026 enhanced edition of the classic 2001 JRPG, developed by TOSE Co., Ltd. and published by Bandai Namco Entertainment. It follows Reid Hershel and his companions across the linked worlds of Inferia and Celestia, with updated visuals and modern quality-of-life features."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "Which platforms is Tales of Eternia Remastered on?",
+          "answer": "Tales of Eternia Remastered releases on PlayStation 4, PlayStation 5, Xbox Series X|S, Nintendo Switch, Nintendo Switch 2, and PC via Steam."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Is Tales of Eternia Remastered multiplayer?",
+          "answer": "The official product page lists Tales of Eternia Remastered as single-player, with no co-op campaign, split-screen mode, or online matchmaking included."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How does combat work in Tales of Eternia Remastered?",
+          "answer": "Battles run on the Aggressive Linear Motion Battle System (A.L.M.B.S.), a real-time 2D system. You control one hero while three allies act on their own, chaining normal attacks into artes, guarding against telegraphed attacks, and sharing a single TP pool for spells and artes."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "How long is Tales of Eternia Remastered?",
+          "answer": "Tales of Eternia Remastered is a full-length JRPG campaign — dozens of hours for the main story, with more if you chase optional Craymels, side quests, and skits across both worlds."
+        },
+        {
+          "question": "What is new in Tales of Eternia Remastered?",
+          "answer": "The remaster adds updated visuals, a rebuilt English script, a new English dub, more than 250 skits, and quality-of-life features such as an encounter rate toggle, toggleable objective icons, and a default run speed."
         }
       ]
     },
